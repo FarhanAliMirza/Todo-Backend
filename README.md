@@ -35,10 +35,6 @@ This is a simple Todo backend server built using Express.
 - `PUT /todos/:id`: Update a specific todo by ID.
 - `DELETE /todos/:id`: Delete a specific todo by ID.
 
-### Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
-
 ### License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
