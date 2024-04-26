@@ -22,7 +22,7 @@ This is a simple Todo backend server built using Express.
 1. Start the server:
 
     ```bash
-    npm start
+    node todoServerFile.js
     ```
 
 2. Open your browser and navigate to `http://localhost:3000` to access the Todo backend server.
